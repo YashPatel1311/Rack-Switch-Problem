@@ -1,0 +1,2522 @@
+
+There are 5 Switches A,B,C,D,E enter dimensions of each
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  30  curr_height:  0  max_height:  0
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  10  curr_height:  0  max_height:  5
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  40  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  20  curr_height:  0  max_height:  5
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  5
+
+Horizontal left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  5
+
+Horizontal Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+25
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  5
+
+Vertical Left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  5
+
+Vertical Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+25
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}]
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  5  curr_height:  0  max_height:  7
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  5  curr_height:  0  max_height:  7
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  7
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}
+
+Horizontal completed
+65
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  10  curr_height:  0  max_height:  5
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  30  curr_height:  0  max_height:  5
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  10  curr_height:  0  max_height:  5
+
+Horizontal left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  5
+
+Horizontal Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+25
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  10  curr_height:  0  max_height:  5
+
+Vertical Left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  30  curr_height:  0  max_height:  5
+
+Vertical Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+25
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}]
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  7
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  7
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+40
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  7
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  7
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  7
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  30  curr_height:  0  max_height:  7
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+40
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}]
+
+max_index:  1
+[{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}]
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}
+
+vertical completed
+80
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 80}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}
+
+Horizontal completed
+45
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 15}
+
+vertical completed
+45
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 45}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}
+
+Horizontal completed
+40
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}
+
+vertical completed
+40
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 40}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  40  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+30
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+30
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}
+
+vertical completed
+45
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 40}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 45}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 1}, 'score': 40}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 45}]
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 45}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+75
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 1}
+ X:  30  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 0}
+
+Horizontal completed
+30
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 0}
+
+vertical completed
+30
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 30}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}
+
+Horizontal completed
+35
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}
+
+vertical completed
+35
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 35}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}
+
+vertical completed
+35
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 35}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 35}]
+
+max_index:  1
+[{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 1}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 35}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 35}]
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 35}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+65
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 80}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 75}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}
+
+Horizontal completed
+45
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 1}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}
+
+vertical completed
+45
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  40  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}
+
+Horizontal completed
+40
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 20}
+
+vertical completed
+40
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 40}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  40  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+30
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+30
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}
+
+vertical completed
+45
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 40}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}, 'score': 40}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}]
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}
+
+Horizontal completed
+85
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}, {'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}, 'score': 20}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+40
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+40
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 15}]
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+35
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 1}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 15}]
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+35
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 35}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+25
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+25
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 25}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 25}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+40
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 35}, {'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}, {'quantity': {'A': 5, 'B': 7, 'C': 0, 'D': 5, 'E': 0}, 'score': 35}, {'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}]
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 40}
+
+vertical completed
+80
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 80}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 75}, {'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 85}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 1}
+ X:  40  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  40  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  30  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  10  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  30  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 15}]
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  15  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Horizontal completed
+50
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 1}
+ X:  25  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  25  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  15  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Horizontal completed
+15
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  10  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  15  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+vertical completed
+15
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 15}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 15}]
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 15}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  15  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+vertical completed
+50
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 80}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 75}, {'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 85}, {'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 50}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  40  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  40  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+25
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+25
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}]
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  5  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  5  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}
+
+Horizontal completed
+50
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+25
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+25
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}]
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}
+
+vertical completed
+50
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 50}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  40  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+30
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+30
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  40  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}
+
+Horizontal completed
+40
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+25
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+25
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 25}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  7  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 25}
+
+vertical completed
+45
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  40  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  15  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Horizontal completed
+35
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  25  Y:  10  Z:  2  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  15  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+vertical completed
+35
+result:  [{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 35}]
+
+max_index:  0
+[{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 4, 'B': 7, 'C': 2, 'D': 5, 'E': 0}, 'score': 45}, {'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 35}]
+
+Horizontal left completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 50}
+
+Quantity :  {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  8  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 3, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+65
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  22  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+25
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+25
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+30
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+30
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+60
+
+Quantity :  {'A': 5, 'B': 6, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+30
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+30
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}]
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 30}
+
+Quantity :  {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+60
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 60}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+30
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+30
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  30  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}, {'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 30}
+
+Quantity :  {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+50
+
+Quantity :  {'A': 5, 'B': 7, 'C': 2, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Horizontal completed
+20
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  20  Y:  10  Z:  0  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  0  Y:  10  Z:  15  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+20
+result:  [{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+max_index:  0
+[{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}]
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 20}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}
+ X:  10  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 0}
+
+vertical completed
+40
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 60}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 50}]
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  30  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Horizontal left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  5  Y:  10  Z:  20  curr_height:  0  max_height:  10
+
+Horizontal Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Horizontal completed
+35
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  25  Y:  10  Z:  10  curr_height:  0  max_height:  10
+
+Vertical Left completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+Quantity :  {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}
+ X:  5  Y:  10  Z:  30  curr_height:  0  max_height:  10
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 0}
+
+vertical completed
+35
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 60}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 35}]
+
+max_index:  1
+[{'quantity': {'A': 4, 'B': 7, 'C': 3, 'D': 5, 'E': 0}, 'score': 25}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 60}, {'quantity': {'A': 5, 'B': 6, 'C': 2, 'D': 5, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 35}]
+
+Vertical Right completed
+{'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 60}
+
+vertical completed
+75
+result:  [{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 80}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 75}, {'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 85}, {'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 75}]
+
+max_index:  2
+[{'quantity': {'A': 4, 'B': 7, 'C': 1, 'D': 5, 'E': 0}, 'score': 80}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 75}, {'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 85}, {'quantity': {'A': 5, 'B': 7, 'C': 3, 'D': 4, 'E': 0}, 'score': 50}, {'quantity': {'A': 5, 'B': 5, 'C': 3, 'D': 5, 'E': 0}, 'score': 75}]
+{'quantity': {'A': 5, 'B': 6, 'C': 1, 'D': 5, 'E': 0}, 'score': 85}
