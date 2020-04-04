@@ -37,12 +37,9 @@ switches={'A':[5, 25, 20, 5, 20, 2000], 'B':[7, 30, 30, 10, 15, 4500], 'C':[3, 2
 Quantity={'A':5,'B':7,'C':3,'D':5,'E':1}
 
 global_max_height=0
-def knapsack(x,y,z,curr_height=0,max_height=0,Quantity={}):
+def knapsack(x,z,max_height=0,Quantity={}):
     global R_x,R_z
     global switches
-
-    if y<=5:
-        return 0
 
     # if x<=10:
     #     return {'quantity':Quantity,'score':0}
@@ -53,7 +50,7 @@ def knapsack(x,y,z,curr_height=0,max_height=0,Quantity={}):
 
     
     print("\nQuantity : ",Quantity)
-    print(" X: ",x," Y: ",y," Z: ",z," curr_height: ",curr_height," max_height: ",max_height)
+    print(" X: ",x," Z: ",z," max_height: ",max_height)
     #Iterating through the list of switches to find if they can fit or not
 
     flag=False
@@ -61,26 +58,26 @@ def knapsack(x,y,z,curr_height=0,max_height=0,Quantity={}):
     for key,val in switches.items():
         # 9898772134
 
-        if (val[2]<=x and val[3]<=y and val[4]<=z and Quantity[key]>0):
+        if (val[2]<=x and val[4]<=z and Quantity[key]>0):
             flag=True
             copy_of_Quantity=Quantity.copy()
             copy_of_Quantity[key]-=1
             if val[3]>max_height:
                 max_height=val[3]
 
-            w_horizontal_left=knapsack(x,y-curr_height,z-val[4],curr_height=curr_height,max_height=max_height,Quantity=copy_of_Quantity)
+            w_horizontal_left=knapsack(x,z-val[4],max_height=max_height,Quantity=copy_of_Quantity)
             print("\nHorizontal left completed")
             print(w_horizontal_left)
-            w_horizontal_right=knapsack(x-val[2],y-curr_height,val[4],curr_height=curr_height,max_height=max_height,Quantity=w_horizontal_left['quantity'])
+            w_horizontal_right=knapsack(x-val[2],val[4],max_height=max_height,Quantity=w_horizontal_left['quantity'])
             print("\nHorizontal Right completed")
             print(w_horizontal_right)
             w_horizontal=val[1]+w_horizontal_left['score']+w_horizontal_right['score']
             print("\nHorizontal completed")
             print(w_horizontal)
-            w_vertical_left=knapsack(val[2],y-curr_height,z-val[4],curr_height=curr_height,max_height=max_height,Quantity=copy_of_Quantity)
+            w_vertical_left=knapsack(val[2],z-val[4],max_height=max_height,Quantity=copy_of_Quantity)
             print("\nVertical Left completed")
             print(w_vertical_left)
-            w_vertical_right=knapsack(x-val[2],y-curr_height,z,curr_height=curr_height,max_height=max_height,Quantity=w_vertical_left['quantity'])
+            w_vertical_right=knapsack(x-val[2],z,max_height=max_height,Quantity=w_vertical_left['quantity'])
             print("\nVertical Right completed")
             print(w_vertical_right)
 
@@ -115,8 +112,8 @@ def knapsack(x,y,z,curr_height=0,max_height=0,Quantity={}):
 
 # def knapsack_height(R_x,R_y,R_z,Quantity=Quantity):
 #     while(R_y>5):
-#         ans=knapsack(R_x,R_y,R_z,curr_height=0,max_height=0,Quantity=Quantity)
+#         ans=knapsack(R_x,R_z,max_height=0,Quantity=Quantity)
 
 
    
-print(knapsack(R_x,R_y,R_z,curr_height=0,max_height=0,Quantity=Quantity))
+print(knapsack(R_x,R_z,max_height=0,Quantity=Quantity))
